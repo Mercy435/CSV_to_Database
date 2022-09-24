@@ -1,5 +1,7 @@
 # CSV_to_Database
 
+## Case 1
+
 ### mysql database
 
 ## steps
@@ -86,9 +88,11 @@
           for i in result:
               print(i)`
 
-
+## Case 2
 
 ### sql server
+
+## steps
 
 ##### import necesary modules
 
